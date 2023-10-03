@@ -19,5 +19,6 @@ Repository ini saya buat untuk latihan backend dengan sedikit komponen di bagian
     ```nodemon backend/index.js```
 
 2. Jalankan frontend dengan cara:
+    ```cd frontend```
     ```npm run dev```
 
